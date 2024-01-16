@@ -1,0 +1,447 @@
+{
+    "categories": {
+        "all": [
+            {
+                "id": "wallpaper 1",
+                "src": "img/wallpapers/1.jpg",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Aquarel",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 2",
+                "src": "img/wallpapers/18.jpg",
+                "user": {
+                    "src": "img/profile/3.png",
+                    "name": "Adobe Photoshop",
+                    "job": "Scientist"
+                }
+            },                    
+
+            {
+                "id": "wallpaper 3",
+                "src": "img/wallpapers/3.jpg",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Aquarel",
+                    "job": "Graphic Designer"
+                }
+            },
+            {
+                "id": "wallpaper 4",
+                "src": "img/wallpapers/4.jpg",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Aquarel",
+                    "job": "editor"
+                }
+            },
+            {
+                "id": "wallpaper 5",
+                "src": "img/wallpapers/5.jpg",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Aquarel",
+                    "job": "Developer"
+                }
+            },
+            {
+                "id": "wallpaper 6",
+                "src": "img/wallpapers/22.png",
+                "user": {
+                    "src": "img/profile/3.png",
+                    "name": "Adobe Photoshop",
+                    "job": "Front-End"
+                }
+            },
+            {
+                "id": "wallpaper 7",
+                "src": "img/wallpapers/7.jpg",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Aquarel",
+                    "job": "Front-End"
+                }
+            },
+            {
+                "id": "wallpaper 8",
+                "src": "img/wallpapers/8.jpg",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Aquarel",
+                    "job": "Product Designer"
+                }
+            },
+            {
+                "id": "wallpaper 9",
+                "src": "img/wallpapers/9.jpg",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Aquarel",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 10",
+                "src": "img/wallpapers/10.jpg",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Aquarel",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 11",
+                "src": "img/wallpapers/11.jpg",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Aquarel",
+                    "job": "Developer"
+                }
+            },
+            {
+                "id": "wallpaper 12",
+                "src": "img/wallpapers/12.png",
+                "user": {
+                    "src": "img/profile/3.png",
+                    "name": "Adobe Photoshop",
+                    "job": "Ui/Ux Designer"
+                }
+            },
+            {
+                "id": "wallpaper 13",
+                "src": "img/wallpapers/13.png",
+                "user": {
+                    "src": "img/profile/3.png",
+                    "name": "Adobe Photoshop",
+                    "job": "photographer"
+                }
+            },
+            {
+                "id": "wallpaper 14",
+                "src": "img/wallpapers/14.png",
+                "user": {
+                    "src": "img/profile/3.png",
+                    "name": "Adobe Photoshop",
+                    "job": "Editor"
+                }
+            },
+            {
+                "id": "wallpaper 15",
+                "src": "img/wallpapers/15.jpg",
+                "user": {
+                    "src": "img/profile/3.png",
+                    "name": "Adobe Photoshop",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 15",
+                "src": "img/wallpapers/16.jpg",
+                "user": {
+                    "src": "img/profile/3.png",
+                    "name": "Adobe Photoshop",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 15",
+                "src": "img/wallpapers/17.jpg",
+                "user": {
+                    "src": "img/profile/3.png",
+                    "name": "Adobe Photoshop",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 15",
+                "src": "img/wallpapers/20.png",
+                "user": {
+                    "src": "img/profile/3.png",
+                    "name": "Adobe Photoshop",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 15",
+                "src": "img/wallpapers/19.png",
+                "user": {
+                    "src": "img/profile/3.png",
+                    "name": "Adobe Photoshop",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 15",
+                "src": "img/wallpapers/2.jpg",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Aquarel",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 15",
+                "src": "img/wallpapers/21.png",
+                "user": {
+                    "src": "img/profile/3.png",
+                    "name": "Adobe Photoshop",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 15",
+                "src": "img/wallpapers/6.jpg",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Aquarel",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 16",
+                "src": "img/wallpapers/23.svg",
+                "user": {
+                    "src": "img/profile/1.png",
+                    "name": "Adobe Illustrator",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 17",
+                "src": "img/wallpapers/24.svg",
+                "user": {
+                    "src": "img/profile/1.png",
+                    "name": "Adobe Illustrator",
+                    "job": "Designer"
+                }
+            }
+        ],
+        "logo": [
+            {
+                "id": "wallpaper 1",
+                "src": "img/wallpapers/23.svg",
+                "user": {
+                    "src": "img/profile/1.png",
+                    "name": "Adobe Illustrator",
+                    "job": "Front-End"
+                }
+            },
+            {
+                "id": "wallpaper 2",
+                "src": "img/wallpapers/24.svg",
+                "user": {
+                    "src": "img/profile/1.png",
+                    "name": "Adobe Illustrator",
+                    "job": "Front-End"
+                }
+            }
+        ],
+        "books": [
+            {
+                "id": "wallpaper 1",
+                "src": "img/wallpapers/12.png",
+                "user": {
+                    "src": "img/profile/3.png",
+                    "name": "Adobe Photoshop",
+                    "job": "Scientist"
+                }
+            },
+            {
+                "id": "wallpaper 2",
+                "src": "img/wallpapers/13.png",
+                "user": {
+                    "src": "img/profile/3.png",
+                    "name": "Adobe Photoshop",
+                    "job": "Graphic Designer"
+                }
+            },
+            {
+                "id": "wallpaper 3",
+                "src": "img/wallpapers/14.png",
+                "user": {
+                    "src": "img/profile/3.png",
+                    "name": "Adobe Photoshop",
+                    "job": "editor"
+                }
+            },
+            {
+                "id": "wallpaper 4",
+                "src": "img/wallpapers/19.png",
+                "user": {
+                    "src": "img/profile/3.png",
+                    "name": "Adobe Photoshop",
+                    "job": "Developer"
+                }
+            },
+            {
+                "id": "wallpaper 5",
+                "src": "img/wallpapers/20.png",
+                "user": {
+                    "src": "img/profile/3.png",
+                    "name": "Adobe Photoshop",
+                    "job": "Front-End"
+                }
+            },
+            {
+                "id": "wallpaper 6",
+                "src": "img/wallpapers/21.png",
+                "user": {
+                    "src": "img/profile/3.png",
+                    "name": "Adobe Photoshop",
+                    "job": "Front-End"
+                }
+            },
+            {
+                "id": "wallpaper 7",
+                "src": "img/wallpapers/22.png",
+                "user": {
+                    "src": "img/profile/3.png",
+                    "name": "Adobe Photoshop",
+                    "job": "Product Designer"
+                }
+            }
+        ],
+        "art": [
+            {
+                "id": "wallpaper 1",
+                "src": "img/wallpapers/1.jpg",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Aquarel",
+                    "job": "Ui/Ux Designer"
+                }
+            },
+            {
+                "id": "wallpaper 2",
+                "src": "img/wallpapers/2.jpg",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Aquarel",
+                    "job": "Editor"
+                }
+            },
+            {
+                "id": "wallpaper 3",
+                "src": "img/wallpapers/3.jpg",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Justin",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 3",
+                "src": "img/wallpapers/4.jpg",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Aquarel",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 3",
+                "src": "img/wallpapers/5.jpg",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Aquarel",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 3",
+                "src": "img/wallpapers/6.jpg",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Aquarel",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 3",
+                "src": "img/wallpapers/7.jpg",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Aquarel",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 3",
+                "src": "img/wallpapers/8.jpg",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Aquarel",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 3",
+                "src": "img/wallpapers/9.jpg",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Aquarel",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 3",
+                "src": "img/wallpapers/10.jpg",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Aquarel",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 3",
+                "src": "img/wallpapers/11.jpg",
+                "user": {
+                    "src": "img/profile/2.png",
+                    "name": "Aquarel",
+                    "job": "Designer"
+                }
+            }
+        ],
+        "adobe": [
+            {
+                "id": "wallpaper 1",
+                "src": "img/wallpapers/15.jpg",
+                "user": {
+                    "src": "img/profile/3.png",
+                    "name": "Adobe Photoshop",
+                    "job": "Product Designer"
+                }
+            },
+            {
+                "id": "wallpaper 2",
+                "src": "img/wallpapers/16.jpg",
+                "user": {
+                    "src": "img/profile/3.png",
+                    "name": "Adobe Photoshop",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 3",
+                "src": "img/wallpapers/17.jpg",
+                "user": {
+                    "src": "img/profile/3.png",
+                    "name": "Adobe Photoshop",
+                    "job": "Designer"
+                }
+            },
+            {
+                "id": "wallpaper 3",
+                "src": "img/wallpapers/18.jpg",
+                "user": {
+                    "src": "img/profile/3.png",
+                    "name": "Adobe Photoshop",
+                    "job": "Designer"
+                }
+            }
+        ]
+    }
+}

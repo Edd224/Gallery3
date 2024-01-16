@@ -1,0 +1,24 @@
+.gallery-setting {
+    width: 100%;
+    margin-bottom: 40px;
+}
+.gallery-setting h1 {
+    color: var(--green-white-100);
+    font-size: 2rem;
+    font-weight: bold;
+}
+.scroll-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 2px;
+    background-color: transparent;
+    color: #000000;
+    border: 1px solid var(--green-400);
+    padding: 10px;
+    border-radius: 10%;
+    cursor: pointer;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
